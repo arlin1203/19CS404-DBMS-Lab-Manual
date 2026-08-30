@@ -1,6 +1,6 @@
 # Experiment 9: PL/SQL – Procedures and Functions
-### Name : RAGHUL V
-### Reg No : 212223060216
+### Name : R.ARLIN REJ
+### Reg No : 212225040027
 ## AIM
 To understand and implement procedures and functions in PL/SQL for performing various operations such as calculations, decision-making, and looping.
 
